@@ -1,0 +1,16 @@
+// home.component.scss
+
+body.bg-dark {
+    background-color: #343a40;
+  }
+  
+  body.text-light {
+    color: #f8f9fa;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-nav {
+      text-align: center;
+    }
+  }
+  
